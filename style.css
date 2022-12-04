@@ -37,7 +37,7 @@ main {
   position: fixed; /*Stays at the same place regardless of where the user is*/
   background-color: var(--bg-primary);
   transition: width 200ms ease;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 .navbar-nav {
